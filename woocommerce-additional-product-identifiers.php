@@ -56,7 +56,7 @@ function wpmr_custom_general_fields()
 		)
 	);
 	
-	//niversal Product Code (UPC) Field
+	//Universal Product Code (UPC) Field
 	woocommerce_wp_text_input( 
 		array(	
 			'id'          => '_wpmr_upc', 
